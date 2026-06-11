@@ -1,0 +1,18 @@
+﻿year,region_raw,region_code,region_name,avg_monthly_basic_pay_php,avg_monthly_allowance_php,avg_monthly_wage_rate_php,wage_check
+2024,National Capital Region,NCR,National Capital Region,27318.10,1991.68,29309.78,0.00
+2024,Cordillera Administrative Region,CAR,Cordillera Administrative Region,16548.32,884.11,17432.43,0.00
+2024,Region I - Ilocos Region,I,Ilocos Region,14247.54,531.96,14779.50,0.00
+2024,Region II - Cagayan Valley,II,Cagayan Valley,14849.03,303.67,15152.70,0.00
+2024,Region III - Central Luzon,III,Central Luzon,17372.50,901.85,18274.35,0.00
+2024,Region IV-A - CALABARZON,IV-A,CALABARZON,18753.73,957.73,19711.46,0.00
+2024,MIMAROPA Region,MIMAROPA,MIMAROPA Region,13418.20,819.85,14238.05,0.00
+2024,Region V - Bicol Region,V,Bicol Region,13045.03,706.41,13751.43,0.01
+2024,Region VI - Western Visayas,VI,Western Visayas,15326.45,777.47,16103.92,0.00
+2024,Region VII - Central Visayas,VII,Central Visayas,18055.02,1028.52,19083.53,0.01
+2024,Region VIII - Eastern Visayas,VIII,Eastern Visayas,12828.08,638.96,13467.05,-0.01
+2024,Region IX - Zamboanga Peninsula,IX,Zamboanga Peninsula,11861.93,358.42,12220.35,0.00
+2024,Region X - Northern Mindanao,X,Northern Mindanao,14072.33,446.63,14518.95,0.01
+2024,Region XI - Davao Region,XI,Davao Region,17162.98,789.83,17952.81,0.00
+2024,Region XII - SOCCSKSARGEN,XII,SOCCSKSARGEN,12621.73,516.29,13138.02,0.00
+2024,Region XIII - Caraga,XIII,Caraga,13459.43,759.84,14219.27,0.00
+2024,Bangsamoro Autonomous Region in Muslim Mindanao,BARMM,Bangsamoro Autonomous Region in Muslim Mindanao,11168.63,326.33,11494.96,0.00
