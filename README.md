@@ -28,9 +28,9 @@ Main datasets used:
 
 ## Tools Used
 
-* Excel — data cleaning, transformation, and dashboard creation
-* SQL / SQLite — data analysis and querying
-* Tableau — dashboard visualization
+* Excel - data cleaning, transformation, and dashboard creation
+* SQL / SQLite - data analysis and querying
+* Tableau - dashboard visualization
 * GitHub — project documentation and portfolio presentation
 
 ## Data Cleaning and Preparation
@@ -86,34 +86,22 @@ The SQL analysis includes queries answering questions such as:
 * Which regions have the strongest wage-to-family-expenditure proxy?
 * How does NCR compare with other regions?
 
-SQL file:
-
-```text
-sql/01_affordability_analysis.sql
-```
+SQL file: [01_affordability_analysis.sql](sql/01_affordability_analysis.sql)
 
 ## Project Files
 
-```text
-data/clean/
-/clean_fies.csv
-/clean_ows_table.csv
-/region_lookup.csv
-/analysis_region_affordability.csv
+| Folder/File                                                                                    | Description                                                                          |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [`data/clean/analysis_region_affordability.csv`](data/clean/analysis_region_affordability.csv) | Final joined dataset used for SQL analysis, Excel dashboard, and Tableau dashboard.  |
+| [`data/clean/clean_fies.csv`](data/clean/clean_fies.csv)                                       | Cleaned FIES regional income, expenditure, and savings dataset.                      |
+| [`data/clean/clean_ows_table.csv`](data/clean/clean_ows_table.csv)                             | Cleaned OWS regional wage dataset.                                                   |
+| [`data/clean/region_lookup.csv`](data/clean/region_lookup.csv)                                 | Lookup table used to standardize region names across datasets.                       |
+| [`excel/ph_affordability_project_working.xlsx`](excel/ph_affordability_project_working.xlsx)   | Excel workbook containing data cleaning sheets, analysis table, and Excel dashboard. |
+| [`sql/01_affordability_analysis.sql`](sql/01_affordability_analysis.sql)                       | SQL script containing the main queries used for analysis.                            |
+| [`tableau/ph_affordability_dashboard.twbx`](tableau/ph_affordability_dashboard.twbx)           | Tableau workbook containing the dashboard version of the project.                    |
+| [`images/excel_dashboard.png`](images/excel_dashboard.png)                                     | Screenshot of the Excel dashboard.                                                   |
+| [`images/tableau_dashboard.png`](images/tableau_dashboard.png)                                 | Screenshot of the Tableau dashboard.                                                 |
 
-excel/
-/ph_affordability_project_working.xlsx
-
-sql/
-/01_affordability_analysis.sql
-
-tableau/
-/ph_affordability_dashboard.twbx
-
-images/
-/excel_dashboard.png
-/tableau_dashboard.png
-```
 
 ## Limitations
 
