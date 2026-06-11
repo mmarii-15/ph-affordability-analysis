@@ -96,23 +96,23 @@ sql/01_affordability_analysis.sql
 
 ```text
 data/clean/
-├── clean_fies.csv
-├── clean_ows_table.csv
-├── region_lookup.csv
-└── analysis_region_affordability.csv
+/clean_fies.csv
+/clean_ows_table.csv
+/region_lookup.csv
+/analysis_region_affordability.csv
 
 excel/
-└── ph_affordability_project_working.xlsx
+/ph_affordability_project_working.xlsx
 
 sql/
-└── 01_affordability_analysis.sql
+/01_affordability_analysis.sql
 
 tableau/
-└── ph_affordability_dashboard.twbx
+/ph_affordability_dashboard.twbx
 
 images/
-├── excel_dashboard.png
-└── tableau_dashboard.png
+/excel_dashboard.png
+/tableau_dashboard.png
 ```
 
 ## Limitations
